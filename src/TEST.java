@@ -85,3 +85,6 @@ class Test {
     }
 }
 
+class Lis {
+
+}
